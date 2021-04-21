@@ -1,1 +1,1 @@
-# Advance-Data-Analysis-Nano-Degree-by-Udacity-
+#### The Nano Degree contains 3 lessons, there is a project for each
